@@ -1,0 +1,3 @@
+[workspace]
+members = ["bruteforce_ssh", "bruteforce_ftp"]
+
